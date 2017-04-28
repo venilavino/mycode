@@ -1,0 +1,5 @@
+print "abc" == "abc"
+print "aa" == "ab"
+print "abc" != "bce"
+print "12" == "12"
+print "12" == "9"
