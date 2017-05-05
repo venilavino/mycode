@@ -1,6 +1,6 @@
 def reverse_int(n):
     return int(str(n)[::-1])
  
-n = 12345
+n = input()
 print n                 
-print reverse_int(n)   
+print reverse_int(n) 
