@@ -7,6 +7,5 @@ public static void main(String[] args)
 System.out.println("String 1: " + str1);  
 System.out.println("String 2: " + str2);  
 System.out.println(str1.contains(str2));  
-System.out.println();  
     }  
 }  
